@@ -1,4 +1,0 @@
-let age = 16;
-let yearsFromNow = 54;
-let ageYearsFromNow =age+yearsFromNow;
-console.log(ageYearsFromNow);
